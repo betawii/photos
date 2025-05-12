@@ -1,0 +1,12 @@
+link for images:
+https://nintendoeverything.com/a-look-at-an-early-version-of-the-wii-shop-channel-and-a-scrapped-channel/
+
+Photos dated: August 18th, 2006, 3 months before the wiis release, they somehow completely redid the design in just 3 months!
+
+code was found but is from dec 9th, 2005, although its basically identical to the 2006 one, in licence.txt in resources folder, it says "Nintendo Revolution Virtual Console"
+more info:
+https://github.com/betawii/early-shopping-channel
+
+how i know it was from the beta wii:
+the early shop had only virtual console channels (proof: cheeck the titles folder in /oss/webcontent/common/titles/ in https://github.com/betawii/early-shopping-channel)
+and you know what titles were shown on the shopping channel banner on the early wii menu? Virtual Console titles, and that was it!
